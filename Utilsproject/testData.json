@@ -1,0 +1,49 @@
+{
+  "signup": {
+    "username": "Jinu981",
+    "password": "Jinu@123"
+  },
+  "login": {
+    "valid": {
+      "username": "Jinu",
+      "password": "Jinu@123"
+    },
+    "invalidUsername": {
+      "username": "Bebu@12",
+      "password": "Bebu@123"
+    },
+    "invalidPassword": {
+      "username": "Bebu@123",
+      "password": "#@123"
+    },
+    "invalidBoth": {
+      "username": "Bebu",
+      "password": "#@123"
+    }
+  },
+  "messages": {
+    "userNotExist": "User does not exist.",
+    "wrongPassword": "Wrong password"
+  },
+  "products": {
+    "addToCart": {
+      "product": "Samsung galaxy s6"
+    },
+    "phone": {
+      "category": "Phones",
+      "product": "Samsung galaxy s6"
+    },
+    "monitor": {
+      "category": "Monitors",
+      "product": "ASUS Full HD"
+    }
+  },
+  "order": {
+    "name": "Jinu Ann John",
+    "country": "Australia",
+    "city": "Melbourne",
+    "card": "000 1111",
+    "month": "October",
+    "year": "2026"
+  }
+}
